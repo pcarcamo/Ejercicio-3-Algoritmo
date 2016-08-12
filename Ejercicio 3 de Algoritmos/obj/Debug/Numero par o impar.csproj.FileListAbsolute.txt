@@ -1,0 +1,5 @@
+c:\users\maestro1\documents\visual studio 2015\Projects\Ejercicio 3 de Algoritmos\Ejercicio 3 de Algoritmos\bin\Debug\Ejercicio 3 de Algoritmos.exe.config
+c:\users\maestro1\documents\visual studio 2015\Projects\Ejercicio 3 de Algoritmos\Ejercicio 3 de Algoritmos\bin\Debug\Ejercicio 3 de Algoritmos.exe
+c:\users\maestro1\documents\visual studio 2015\Projects\Ejercicio 3 de Algoritmos\Ejercicio 3 de Algoritmos\bin\Debug\Ejercicio 3 de Algoritmos.pdb
+c:\users\maestro1\documents\visual studio 2015\Projects\Ejercicio 3 de Algoritmos\Ejercicio 3 de Algoritmos\obj\Debug\Ejercicio 3 de Algoritmos.exe
+c:\users\maestro1\documents\visual studio 2015\Projects\Ejercicio 3 de Algoritmos\Ejercicio 3 de Algoritmos\obj\Debug\Ejercicio 3 de Algoritmos.pdb
