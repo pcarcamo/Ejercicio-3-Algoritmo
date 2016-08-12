@@ -1,0 +1,6 @@
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\altura de una persona\bin\Debug\altura de una persona.exe.config
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\altura de una persona\obj\Debug\altura de una persona.csprojResolveAssemblyReference.cache
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\altura de una persona\bin\Debug\altura de una persona.exe
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\altura de una persona\bin\Debug\altura de una persona.pdb
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\altura de una persona\obj\Debug\altura de una persona.exe
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\altura de una persona\obj\Debug\altura de una persona.pdb
