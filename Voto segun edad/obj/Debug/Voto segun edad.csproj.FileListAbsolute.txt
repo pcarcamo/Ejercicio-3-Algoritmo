@@ -1,0 +1,5 @@
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\Voto segun edad\bin\Debug\Voto segun edad.exe.config
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\Voto segun edad\bin\Debug\Voto segun edad.exe
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\Voto segun edad\bin\Debug\Voto segun edad.pdb
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\Voto segun edad\obj\Debug\Voto segun edad.exe
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\Voto segun edad\obj\Debug\Voto segun edad.pdb
