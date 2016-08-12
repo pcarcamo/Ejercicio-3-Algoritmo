@@ -1,0 +1,5 @@
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\Numero mayor\bin\Debug\Numero mayor.exe.config
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\Numero mayor\bin\Debug\Numero mayor.exe
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\Numero mayor\bin\Debug\Numero mayor.pdb
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\Numero mayor\obj\Debug\Numero mayor.exe
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\Numero mayor\obj\Debug\Numero mayor.pdb
