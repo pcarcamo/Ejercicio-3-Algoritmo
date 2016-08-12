@@ -1,0 +1,3 @@
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\numero positivo o negatico\bin\Debug\numero positivo o negatico.exe.config
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\numero positivo o negatico\obj\Debug\numero positivo o negatico.exe
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\numero positivo o negatico\obj\Debug\numero positivo o negatico.pdb
