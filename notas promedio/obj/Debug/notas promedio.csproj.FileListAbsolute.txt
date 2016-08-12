@@ -1,0 +1,6 @@
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\notas promedio\bin\Debug\notas promedio.exe.config
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\notas promedio\bin\Debug\notas promedio.exe
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\notas promedio\bin\Debug\notas promedio.pdb
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\notas promedio\obj\Debug\notas promedio.exe
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\notas promedio\obj\Debug\notas promedio.pdb
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\notas promedio\obj\Debug\notas promedio.csprojResolveAssemblyReference.cache
