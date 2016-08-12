@@ -1,0 +1,6 @@
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\Numeros iguales o no\bin\Debug\Numeros iguales o no.exe.config
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\Numeros iguales o no\bin\Debug\Numeros iguales o no.exe
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\Numeros iguales o no\bin\Debug\Numeros iguales o no.pdb
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\Numeros iguales o no\obj\Debug\Numeros iguales o no.csprojResolveAssemblyReference.cache
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\Numeros iguales o no\obj\Debug\Numeros iguales o no.exe
+C:\Users\Maestro1\Documents\Visual Studio 2015\Projects\Ejercicio 3 de Algoritmos\Numeros iguales o no\obj\Debug\Numeros iguales o no.pdb
